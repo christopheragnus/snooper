@@ -1,0 +1,17 @@
+{
+  "name": "snoopr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rovermanager.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Christopher Lam",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
