@@ -4,6 +4,7 @@
   "description": "",
   "main": "rovermanager.js",
   "scripts": {
+    "start": "node './rovermanager.js'",
     "test": "jest"
   },
   "author": "Christopher Lam",
