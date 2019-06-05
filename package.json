@@ -2,9 +2,9 @@
   "name": "snoopr",
   "version": "1.0.0",
   "description": "",
-  "main": "rovermanager.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node './rovermanager.js'",
+    "start": "node './index.js'",
     "test": "jest"
   },
   "author": "Christopher Lam",
